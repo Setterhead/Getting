@@ -13,8 +13,8 @@
 
 ### Variable notes
 
-*subject - ID of the participant
-*activity - type of activity
+* subject - ID of the participant
+* activity - type of activity
 
 
     TimeDomain.BodyAcc.Mean.X
